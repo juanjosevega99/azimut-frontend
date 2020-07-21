@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/azimut-frontend/static/css/main.424deabf.chunk.css",
+    "main.js": "/azimut-frontend/static/js/main.e5dcdf68.chunk.js",
+    "main.js.map": "/azimut-frontend/static/js/main.e5dcdf68.chunk.js.map",
+    "runtime-main.js": "/azimut-frontend/static/js/runtime-main.32db9b82.js",
+    "runtime-main.js.map": "/azimut-frontend/static/js/runtime-main.32db9b82.js.map",
+    "static/js/2.8a1fce31.chunk.js": "/azimut-frontend/static/js/2.8a1fce31.chunk.js",
+    "static/js/2.8a1fce31.chunk.js.map": "/azimut-frontend/static/js/2.8a1fce31.chunk.js.map",
+    "index.html": "/azimut-frontend/index.html",
+    "precache-manifest.d3da966901315b4fac0e5f7a0f11faa9.js": "/azimut-frontend/precache-manifest.d3da966901315b4fac0e5f7a0f11faa9.js",
+    "service-worker.js": "/azimut-frontend/service-worker.js",
+    "static/css/main.424deabf.chunk.css.map": "/azimut-frontend/static/css/main.424deabf.chunk.css.map",
+    "static/js/2.8a1fce31.chunk.js.LICENSE.txt": "/azimut-frontend/static/js/2.8a1fce31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32db9b82.js",
+    "static/js/2.8a1fce31.chunk.js",
+    "static/css/main.424deabf.chunk.css",
+    "static/js/main.e5dcdf68.chunk.js"
+  ]
+}
